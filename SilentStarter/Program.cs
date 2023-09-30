@@ -107,7 +107,7 @@ namespace SilentStarter
                 launcher = proc.StandardOutput.ReadLine();
                 if (!File.Exists(launcher))
                 {
-                    File.AppendAllText(logFile, $"ERROR! Could not find the launcher for this file type: {scriptCommand}{Environment.NewLine}{Environment.NewLine}");
+                    File.AppendAllText(logFile, $"ERROR! Could not find the launcher for this script type: {scriptCommand}{Environment.NewLine}{Environment.NewLine}");
                     return;
                 }
             }

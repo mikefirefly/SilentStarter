@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SilentStarter/bin/Debug/SilentStarter.exe
+/SilentStarter/bin/Debug/SilentStarter.pdb
+/SilentStarter/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/SilentStarter/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/SilentStarter/obj/Debug/SilentStarter.csproj.AssemblyReference.cache
+/SilentStarter/obj/Debug/SilentStarter.csproj.CoreCompileInputs.cache
+/SilentStarter/obj/Debug/SilentStarter.csproj.FileListAbsolute.txt
+/SilentStarter/obj/Debug/SilentStarter.exe
+/SilentStarter/obj/Debug/SilentStarter.pdb
+/.vs/SilentStarter/FileContentIndex/2ecbda57-ae35-4742-a395-3c7231168ae0.vsidx
+/.vs/SilentStarter/v17/.suo
+/.vs/SilentStarter/v17/.wsuo

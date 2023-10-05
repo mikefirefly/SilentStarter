@@ -1,7 +1,0 @@
-C:\Users\MIKE\source\repos\SilentStarter\SilentStarter\bin\Release\SilentStarter.exe.config
-C:\Users\MIKE\source\repos\SilentStarter\SilentStarter\bin\Release\SilentStarter.exe
-C:\Users\MIKE\source\repos\SilentStarter\SilentStarter\bin\Release\SilentStarter.pdb
-C:\Users\MIKE\source\repos\SilentStarter\SilentStarter\obj\Release\SilentStarter.csproj.AssemblyReference.cache
-C:\Users\MIKE\source\repos\SilentStarter\SilentStarter\obj\Release\SilentStarter.csproj.CoreCompileInputs.cache
-C:\Users\MIKE\source\repos\SilentStarter\SilentStarter\obj\Release\SilentStarter.exe
-C:\Users\MIKE\source\repos\SilentStarter\SilentStarter\obj\Release\SilentStarter.pdb

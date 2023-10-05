@@ -123,7 +123,7 @@ namespace SilentStarter
                 if (shellType != LauncherType.BATCH)
                     quotedParams = scriptCommand + " ";
                 if (shellType == LauncherType.POWERSHELL)
-                    quotedParams = "-File " + scriptCommand + " ";
+                    quotedParams = "-nologo -executionpolicy bypass -File " + scriptCommand + " ";
 
                 if (scriptParams != null)
                      if (scriptParams.Length > 0)

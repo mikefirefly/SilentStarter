@@ -13,5 +13,5 @@ Optional switches:
 
 Supported script types:
 - ```BAT``` / ```CMD```
-- ```PS1``` (requires script execution policy set to ```Unrestricted```)
+- ```PS1```
 - ```PY``` (requires a valid Python installation)

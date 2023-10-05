@@ -22,6 +22,7 @@ namespace SilentStarter
             string[] scriptParams = null;
             string scriptCommand;
             int scriptParamCount;
+            if (args.Length == 0) return;
             if (args[0].StartsWith("/"))
             {
                 string ssParams = args[0].ToUpper();

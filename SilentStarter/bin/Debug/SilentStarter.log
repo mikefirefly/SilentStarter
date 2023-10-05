@@ -29,3 +29,10 @@ Directory : C:\USERS\MIKE\DOCUMENTS\VISUAL STUDIO 2022\SOME THING ELSE
 Exit code : 0
 Elapsed   : 0:00.130
 
+Timestamp : 05.10.2023 11:52:40
+Shell     : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Arguments : -nologo -executionpolicy bypass -File "SPEAK.PS1" "Will this be released?"
+Directory : 
+Exit code : 0
+Elapsed   : 0:04.212
+
